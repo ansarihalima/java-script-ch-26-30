@@ -1,0 +1,19 @@
+  body {
+         font-family: Arial, sans-serif;
+        text-align: center;
+        padding: 20px;
+ }
+#diceResult {
+            font-size: 3em;
+            margin-top: 20px;
+}
+
+#coinResult {
+    font-size: 2em;
+    margin-top: 20px;
+}
+
+#randomNumber {
+    font-size: 2em;
+    margin-top: 20px;
+}
